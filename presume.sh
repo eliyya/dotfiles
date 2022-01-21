@@ -1,0 +1,1 @@
+lacritty --hold --class p-neofetch -e neofetch & alacritty --hold --class p-htop -e htop & alacritty --hold --class p-spt -e spt & alacritty --hold --class p-cava -e cava & alacritty --hold --class p-bashtop -e bashtop & exit
