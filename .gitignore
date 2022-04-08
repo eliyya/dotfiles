@@ -1,4 +1,6 @@
 alacritty
+autostart
+BraveSoftware
 bspwm
 Code
 dconf
@@ -12,12 +14,14 @@ Kvantum
 leafpad
 libfm
 light
+MongoDB Compass
 mimeapps.list
 neofetch
 networkmanager-dmenu
 nitrogen
 nvim
 obmenu-generator
+obsidian
 openbox
 pcmanfm
 picom.conf
@@ -28,7 +32,6 @@ pyroom
 qt5ct
 ranger
 rofi
-sxhkd
 test.txt
 Thunar
 user-dirs.dirs
